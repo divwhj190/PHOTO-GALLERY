@@ -1,0 +1,80 @@
+body {
+    background-image: url('https://raw.githubusercontent.com/divwhj190/PHOTO-GALLERY/main/940514-bigthumbnail.jpg');
+    margin: 0px;
+}
+
+.menu1 {
+    font-family: sans-serif;
+    top: 0px;
+    cursor: pointer;
+    background-color: black;
+    margin-top: 0px;
+    width: 100%;
+    height: 50px;
+}
+
+.links {
+    padding-right: 25px;
+    padding-left: 33px;
+    font-family: monospace;
+    font-size: 30px;
+    display: inline;
+}
+
+.links:hover {
+    background-color: #3b3d40;
+    font-size: 35px;
+}
+
+.paragraph {
+    font-family: monospace;
+    color: silver;
+    display: inline;
+    text-decoration-color: black;
+}
+
+.image-section {
+    display: flex;
+    justify-content: center;
+}
+
+.imgp {
+    max-width: 20%;
+    height: 10%;
+    padding-right: 25px;
+}
+
+.imgp1 {
+    max-width: 20%;
+    height: 10%;
+    padding-bottom: 20px;
+}
+
+.imgp2 {
+    max-width: 20%;
+    height: 5%;
+    padding-right: 25px;
+}
+
+.u1 {
+    color: #fc2403;
+    font-size: 48px;
+    font-family: 'Itim', cursive;
+}
+.imgp4{
+    max-width: 20%;
+    height: 10%; 
+}
+.opt{
+    color:white;
+}
+#imgr{
+    width:1500px;
+    max-height:700px;
+}
+#imgr1{
+    width:1500px;
+    max-height:700px;
+}
+     
+     
